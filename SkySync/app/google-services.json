@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "61592060096",
+    "project_id": "login-7a19e",
+    "storage_bucket": "login-7a19e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61592060096:android:b0e512d964d7b82b8b6d25",
+        "android_client_info": {
+          "package_name": "com.example.Login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATI2sw2-1a858df9SRiH3sHBWRSNVBrZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61592060096:android:698e23cb49a6c1eb8b6d25",
+        "android_client_info": {
+          "package_name": "com.example.skysync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATI2sw2-1a858df9SRiH3sHBWRSNVBrZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61592060096:android:c2155e3e3394bef58b6d25",
+        "android_client_info": {
+          "package_name": "com.example.videojit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATI2sw2-1a858df9SRiH3sHBWRSNVBrZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
